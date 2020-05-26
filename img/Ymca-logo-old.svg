@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 99.313835 86.008186"
+   height="86.008186mm"
+   width="99.313835mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-52.795228,-89.232794)"
+     id="layer1">
+    <g
+       id="g72">
+      <path
+         style="fill:#ff0000;stroke-width:1.55802846"
+         d="m 199.54102,337.25781 93.83984,162.53516 93.83984,162.53515 93.83985,-162.53515 93.83984,-162.53516 H 387.2207 Z m 77.36914,46.73047 h 110.04101 110.04102 l -55.02149,95.29688 -55.01953,95.29882 -55.01953,-95.29882 z"
+         transform="scale(0.26458333)"
+         id="path57" />
+      <rect
+         style="fill:#000000;stroke-width:0.26458332"
+         id="rect61"
+         width="79.941963"
+         height="18.331844"
+         x="62.481163"
+         y="117.08333" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:14.40595818px;line-height:9.00372314px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.36014894"
+         x="75.099503"
+         y="123.48626"
+         id="text65"
+         transform="scale(0.93854097,1.0654836)"><tspan
+           id="tspan63"
+           x="75.099503"
+           y="123.48626"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.36014894">Y. M. C. A.</tspan></text>
+    </g>
+  </g>
+</svg>

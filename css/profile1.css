@@ -1,0 +1,78 @@
+*{
+box-size:border-box;
+margin:0px;
+padding:0px;
+}	
+.col-sm-4{
+border:1px ridge black;
+background-image:url('https://images.unsplash.com/photo-1557682224-5b8590cd9ec5?ixlib=rb-1.2.1&auto=format&fit=crop&w=715&q=80');
+background-size:cover;
+height:700px;
+padding:0px;
+position:relative;
+  }
+#logo1{
+color:black;
+font-size:4em;
+margin-top:10px;
+}
+#logo2{
+position:absolute;
+color:black;
+font-size:3em;
+}
+.aboutme{
+border:0.75px ridge black;
+width:80%;
+height:450px;
+box-shadow:1px 3px 5px gray;
+}
+.insideskills{
+position:absolute;
+border:1px ridge white;
+bottom:0;
+width:100%;
+height:400px;
+}
+
+#picdiv{
+overflow:hidden;
+}
+.mypic{
+position:absolute;
+width:400px;
+height:auto;
+bottom:0;
+right:0;
+}
+
+.aboutm{
+font-family:serif;
+color:gray;
+box-shadow:3px 1px 3px gray;
+font-size:2em;
+border-radius:20px;
+border:0.2px ridge black;
+}
+
+.pdetail{
+margin-top:-78px;
+color:brown;
+font-family:serif;
+box-shadow:1px 2px 2px gray;
+}
+.description{
+font-family:times;
+color:white;
+text-shadow:1px 2px gray;
+font-style:bold;
+font-size:1.25em;
+}
+@media (max-width:762px){
+.aboutme{
+border:2.4px ridge black;
+width:300px;
+height:550px;
+}
+
+}

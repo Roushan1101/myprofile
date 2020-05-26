@@ -1,0 +1,134 @@
+*{
+box-size:border-box;
+margin:0px;
+padding:0px;
+}
+.col-md-6{
+ border:1px ridge black;
+ height:545px;
+}
+
+.homehello{
+margin-top:80px;
+font-size:50px;
+color:#58c966;
+font-family: 'Podkova', serif;
+}
+.hometxt{
+width:400px;
+height:500px;
+border:2px ridge transparent;
+font-size: 25px;
+color:  #ff8c1a;
+font-family: 'Podkova', serif;
+font-weight: bolder;
+
+}
+.myname{
+color:black;
+font-family: 'Podkova', serif;
+}
+.button7{
+display:inline-block;
+padding:0.26em 0.6em;
+border:0.1em solid #000000;
+margin:0 0.2em 0.2em 0;
+border-radius:0.12em;
+box-sizing: border-box;
+text-decoration:none;
+font-family:'Roboto',sans-serif;
+font-weight:300;
+font-size:0.75em;
+color:#000000;
+text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+background-color:#FFFFFF;
+text-align:center;
+transition: all 0.15s;
+border-radius:30px;
+margin-top:80px;
+}
+.button7:hover{
+text-shadow: 0 0 2em rgba(255,255,255,1);
+color:green;
+border-color:#FFFFFF;
+}
+@media all and (max-width:30em){
+.button7{
+display:block;
+margin:0.4em auto;
+}
+}
+
+
+
+#main1{
+background-image:url('../img/camera_neon.jpg');
+background-size:cover;
+height:700px;
+}
+#main2{
+height:700px;
+background-image:url('https://digitalsynopsis.com/wp-content/uploads/2017/07/beautiful-color-ui-gradients-backgrounds-purple-love.png');
+background-size:cover;
+
+}
+.describe1{
+color:black;
+}
+
+
+@media (max-width:962px){
+
+#main1{
+
+background-image:url('../img/camera_neon_retro_137186_5200x3925.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+#main2{
+
+background-image:url('https://digitalsynopsis.com/wp-content/uploads/2017/07/beautiful-color-ui-gradients-backgrounds-purple-love.png');
+background-size:contain;
+height:700px;
+}
+
+  .homehello{
+margin-left:auto;
+margin-right:auto;
+font-size:36px;
+color:#58c966;
+font-family: 'Podkova', serif;
+}
+.hometxt{
+width:300px;
+height:500px;
+border:2px ridge transparent;
+font-size: 20px;
+color:  #ff8c1a;
+font-family: 'Podkova', serif;
+font-weight: bolder;
+
+}
+.myname{
+color:black;
+font-family: 'Podkova', serif;
+}
+.homebutton{
+position:absolute;
+bottom:30px;
+left:50px;
+padding:10px 10px;
+font-size: 18px;
+border:1px ridge black;
+border-radius:20px;
+box-shadow: 1px 2px 6px gray;
+}
+.button7{
+padding:10px;
+margin-top:90px;
+box-radius:50px;
+}
+}

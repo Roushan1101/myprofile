@@ -1,0 +1,40 @@
+#star{
+position:absolute;
+font-size:3em;
+margin-top:100px;
+margin-left:300px;
+color:white;
+}
+.glow {
+  margin-top:180px;
+  font-size: 3em;
+  color: white;
+  font-family:monoscript;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+  text-shadow: 2px 2px gray;
+  font-family:Andale Mono, monospace;
+}
+.glow:hover{
+color:cyan;
+}
+
+
+.glowR{
+color:white;
+font-family:serif;
+font-size:0.75em;
+}
+@media (max-width:962px)
+{
+.glow {
+margin-top:150px;
+  font-size: 2em;
+}
+#star{
+margin-left:180px;
+
+}
+}
